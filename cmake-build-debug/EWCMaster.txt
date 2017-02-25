@@ -1,0 +1,15 @@
+105 small_widget 1.45 50 150
+205 med_widget 2.75 75 350
+305 large_widget 4.95 35 125
+104 small_gizmo 12.48 60 200
+204 med_gizmo 18.50 100 400
+304 large_gizmo 28.60 40 150
+108 small_thingy .78 100 300
+208 med_thingy 2.38 250 750
+308 large_thingy 5.25 75 250
+101 blue_stuff 35.25 15 50
+201 gold_stuff 35.25 15 50
+301 green_stuff 35.25 15 50
+401 red_stuff 35.25 15 50
+103 metal_gadget 56.98 15 45
+203 plastic_gadget 38.45 20 80
